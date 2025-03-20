@@ -25,5 +25,5 @@ python Evaluation.ipynb
 ```
 
 ### Results
-Model Accuracy: 49.2%
-META Baseline Accuracy: 49.3%
+Model Accuracy: 49.2%  
+META Baseline Accuracy: 49.3%  
