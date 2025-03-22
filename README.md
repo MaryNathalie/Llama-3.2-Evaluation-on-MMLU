@@ -9,7 +9,7 @@ This project evaluates the performance of the [Meta's Llama 3.2 model](https://a
 - Prompt Truncation: Ensures input size remains within the model’s maximum token limit.
 - Output Parsing: Extracts and processes multiple-choice answers to compute macro-averaged accuracy.
 
-### 📁 Dataset
+### 🏭 Data Sources
 MMLU (Massive Multitask Language Understanding): [Hugging Face – cais/mmlu](https://huggingface.co/datasets/cais/mmlu)
 <p align="center">
 <img src="https://github.com/MaryNathalie/Llama-3.2-Evaluation-on-MMLU/blob/main/images/question_per_subject.png" width=80% height=80%>
